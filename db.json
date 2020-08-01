@@ -1,0 +1,16 @@
+{
+    "categorias": [
+        {   
+        "id": 1, 
+        "nome": "Pokedex",
+        "descricao": "Uma releitura da pokedex com node",
+        "cor": "#000"
+        },
+        {
+            "id": 1, 
+            "nome": "Backend",
+            "descricao": "Construção de backend",
+            "cor": "#000"
+        }
+    ]
+}
